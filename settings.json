@@ -1,0 +1,107 @@
+{
+	"Hydrogen": {
+		"startDir": "dirOfFile"
+	},
+	"atom-beautify": {
+		"python": {
+			"max_line_length": 99,
+			"multi_line_output": "Hanging Indent"
+		}
+	},
+	"atom-material-ui": {
+		"colors": {
+			"abaseColor": "#607d8b",
+			"predefinedColor": "Blue Grey"
+		},
+		"fonts": {},
+		"tabs": {
+			"compactTabs": true,
+			"tintedTabBar": true
+		},
+		"ui": {
+			"panelContrast": true
+		}
+	},
+	"atom-python-virtualenv": {
+		"additionalVirtualEnvPaths": "/Users/marnix/anaconda3/envs/",
+		"getVirtualEnvsFromHome": false,
+		"getWorkOnHome": "/Users/marnix/anaconda3/envs/"
+	},
+	"autocomplete-python": {},
+	"core": {
+		"disabledPackages": [
+			"tool-bar-almighty",
+			"autocomplete-python"
+		],
+		"packagesWithKeymapsDisabled": [
+			"terminal-plus"
+		],
+		"projectHome": "/Users/marnix/Code/Python",
+		"telemetryConsent": "no",
+		"titleBar": "custom-inset",
+		"warnOnLargeFileLimit": 100
+	},
+	"editor": {
+		"fontFamily": "Source Code Pro",
+		"fontSize": 12,
+		"preferredLineLength": 120,
+		"scrollPastEnd": true,
+		"showIndentGuide": true,
+		"tabLength": 4
+	},
+	"exception-reporting": {
+		"userId": "15a5b478-1812-44f6-93e6-786a8ca186af"
+	},
+	"highlight-selected": {
+		"ignoreCase": true
+	},
+	"kite": {
+		"editorMetricsEnabled": "no",
+		"showWelcomeNotificationOnStartup": false
+	},
+	"linter-flake8": {
+		"ignoreErrorCodes": [
+			"E501",
+			"E402",
+			"E261",
+			"W391",
+			"E203",
+			"E123",
+			"E266",
+			"E128",
+			"E303"
+		],
+		"pycodestyleErrorsToWarnings": true
+	},
+	"linter-pydocstyle": {
+		"ignoreCodes": "D100, E111, E114"
+	},
+	"linter-ui-default": {},
+	"minimap": {
+		"absoluteMode": true,
+		"adjustAbsoluteModeHeight": true,
+		"charHeight": 1.5,
+		"interline": 1.5,
+		"textOpacity": 0.5
+	},
+	"one-dark-ui": {},
+	"seti-syntax": {},
+	"seti-ui": {},
+	"sync-settings": {
+		"gistDescription": "Atom Sync"
+	},
+	"terminal-plus": {
+		"style": {
+			"theme": "pro"
+		}
+	},
+	"tool-bar": {
+		"fullWidth": false,
+		"iconSize": "16px",
+		"position": "Right",
+		"useTouchBar": false
+	},
+	"welcome": {
+		"showOnStartup": false
+	}
+}
